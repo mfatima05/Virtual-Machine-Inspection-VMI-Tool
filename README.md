@@ -142,7 +142,7 @@ We can incorporate malware analysis capabilities into this project to detect, an
 
 <h2>License</h2>
 
-This project is licensed under the MIT . See the <a href="https://github.com/Khyati-33/Virtual-Machine-Inspecter/blob/main/LICENSE">LICENSE</a> file for more details.
+This project is licensed under the MIT . See the <a href="https://github.com/mfatima05/Virtual-Machine-Inspection-VMI-Tool/blob/main/LICENSE">LICENSE</a> file for more details.
 
 <h2>Contact</h2>
 For any questions or issues, please contact:
